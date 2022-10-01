@@ -277,6 +277,7 @@
   margin-top: 10rem;
   margin-bottom: 5rem;
 }
+
 .wrapper section.lorem .texts {
   display: flex;
   width: 80%;
@@ -377,7 +378,7 @@
   flex: 1;
 }
 
-.wrapper footer.mf .container .title h1{
+.wrapper footer.mf .container .title h1 {
   margin-bottom: 2rem;
 }
 
